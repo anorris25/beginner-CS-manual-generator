@@ -15,7 +15,7 @@ Computer Science in its entirety comes off as intimidating. This manual aims to 
   * Variables
   * Print Statements
   * Conditionals
-  * For/While Loops
+  * Loops
   * Functions
 
 3. Try it on your own!
