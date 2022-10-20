@@ -7,7 +7,7 @@ body, html {
 .hero-image {
     /* - HERO -
     This code controls your "hero image." You will need to change hero.jpg to match your asset */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("python.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -141,7 +141,7 @@ This code controls that cool parallax image and scrolling effect. Change the ima
 
 
 .parallax {
-    background-image: url("python.jpg");
+    background-image: url("hero.jpg");
 
     /* Set a specific height */
     height: 500px;
