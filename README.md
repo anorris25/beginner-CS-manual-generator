@@ -1,33 +1,28 @@
-# Learning the Basics of Computer Science and Programming
+# The Basics of Computer Science and Programming (Elementary Level)
 
-It's true. The Greeks invented the elevator, and quickly realized the awkward communication that results when one is locked in a box with their interlocutor. Luckily, in addition to being great engineers, the Greeks were also skilled rhetoricians.
+Computer Science in its entirety comes off as intimidating. This manual aims to introduce some simple CS structures and syntax to kids or beginners interested in programming. Learning the basics is a great way to start pursuing computer programming!
 
-Open this generator and follow the directions to utilize the available means of persuasion to concisely language exactly what you want to say. The result: an elevator pitch. Ding! - Doors Closing - How high do you want to go?"
+## Sections: 
 
-View the [Demo](https://open-fuego.github.io/elevator-pitch-generator) 
+1. What is Computer Science?
+* Definition
+* Where it's used
+* Overview of programming languages and what they are used for
 
+2. Important Concepts with Example Code
+* Show what a compiler looks like (provide web compiler ex: onlinegdb.com)
+* Show syntax for simple structures
+  * Variables
+  * Print Statements
+  * Conditionals
+  * For/While Loops
+  * Functions
 
-## Get started!
+3. Try it on your own!
+  * This will provide prompts for the user to try on their own. (Ex: Try to print "Hello World" 10 times)
 
-1. Go to the [Elevator Pitch Repository](https://github.com/Open-Fuego/elevator-pitch-generator)
+4. Ethics
 
-2. Click the green "**Code**" button, then "**Download ZIP**" to your local computer. 
-
-3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
-
-4. Download and/or open a text editor like [atom.io](https://atom.io) or [notepad-plus-plus.org](notepad-plus-plus.org). 
-
-5. Use the text editor to open the **index.html** documents and **style.css** from your project folder.  
-
-6. Start working with code by reading through the index.html where you'll find instructions on how to build your own webtext! 
-
-7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "**uploading an existing file**" and "**commit**" your file changes to this repository. Remember, you'll need ALL of your assets to make your webtext function properly. 
-
-8. Now go to your repository "**settings**." Scroll down to "**Pages**" and change the setting from "**none**" to "**main**" branch. Hit "**Save**". This will provide you with a published GitHub URL.
-
-9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
-
-
-Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
+5. Inclusion
 
 
