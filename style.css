@@ -7,7 +7,7 @@ body, html {
 .hero-image {
     /* - HERO -
     This code controls your "hero image." You will need to change hero.jpg to match your asset */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("python.jpeg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
