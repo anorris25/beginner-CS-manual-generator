@@ -1,4 +1,4 @@
-# Elevator Pitch Generator
+# Learning the Basics of Computer Science and Programming
 
 It's true. The Greeks invented the elevator, and quickly realized the awkward communication that results when one is locked in a box with their interlocutor. Luckily, in addition to being great engineers, the Greeks were also skilled rhetoricians.
 
