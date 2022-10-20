@@ -25,4 +25,5 @@ Computer Science in its entirety comes off as intimidating. This manual aims to 
 
 5. Inclusion
 
+Reference Site: https://www.idtech.com/blog/python-for-kids
 
