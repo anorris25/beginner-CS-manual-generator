@@ -1,6 +1,6 @@
-# The Basics of Computer Science and Programming (Elementary Level)
+# The Basics of Computer Science and Programming
 
-Computer Science in its entirety comes off as intimidating. This manual aims to introduce some simple CS structures and syntax to kids or beginners interested in programming. Learning the basics is a great way to start pursuing computer programming!
+Computer Science in its entirety comes off as intimidating. This manual aims to introduce some simple CS structures and syntax to middle school students or beginners interested in programming. Learning the basics is a great way to start pursuing computer programming!
 
 ## Sections: 
 
@@ -19,7 +19,7 @@ Computer Science in its entirety comes off as intimidating. This manual aims to 
   * Functions
 
 3. Try it on your own!
-  * This will provide prompts for the user to try on their own. (Ex: Try to print "Hello World" 10 times)
+  * This will provide prompts for the user to try on their own.
 
 4. Ethics
 
